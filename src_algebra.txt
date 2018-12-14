@@ -1,3 +1,0 @@
-"C:\\Users\\Student 5\\Documents\\JCreator LE\\MyProjects\\Algebra\\Coords.java"
-"C:\\Users\\Student 5\\Documents\\JCreator LE\\MyProjects\\Algebra\\LinearEquation.java"
-"C:\\Users\\Student 5\\Documents\\JCreator LE\\MyProjects\\Algebra\\Test.java"
