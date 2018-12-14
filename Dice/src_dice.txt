@@ -1,0 +1,3 @@
+"C:\\Users\\Student 5\\Documents\\JCreator LE\\MyProjects\\Dice\\DicePractice.java"
+"C:\\Users\\Student 5\\Documents\\JCreator LE\\MyProjects\\Dice\\NumberCube.java"
+"C:\\Users\\Student 5\\Documents\\JCreator LE\\MyProjects\\Dice\\PairOfDice.java"
